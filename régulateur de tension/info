@@ -1,0 +1,247 @@
+{
+  "uuid": "d33e6db93bcacc16b53e63c404957949",
+  "path": "Offline/régulateur de tension",
+  "name": "régulateur de tension",
+  "content": "",
+  "created_at": "2026-11-04 22:27:09",
+  "updated_at": "2026-11-11 14:11:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "153cf6825d8c84df9739b79186ffa357",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a81a0f0007be4c19a96abd82cc6b7e53": 1,
+        "aa25a749e53f3ce41ea09e5c0eedb8aa": 1,
+        "8e06176593c83cb1ac26267a81465057": 4,
+        "9e0eced329e241a390924a11deca01dd": 1,
+        "4a9936d0e45f408ebef3d8a9337695dd": 1,
+        "a89c75d8bdbb4b64be5d58cd0702e4a2": 1,
+        "6b15657ebc2b417a86c6c9417c914ece": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "0603B105K500NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C90540"
+          }
+        ],
+        [
+          "2541WV-2X01P",
+          2,
+          "HDR-TH_2541WV-2X01P",
+          "H1,H2",
+          {
+            "Manufacturer Part": "2541WV-2X01P",
+            "Manufacturer": "HanElectricity(瀚源)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C41430884"
+          }
+        ],
+        [
+          "1kΩ",
+          4,
+          "R0603",
+          "R1,R3,R4,R6",
+          {
+            "Manufacturer Part": "RC0603FR-071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22548"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R5",
+          {
+            "Manufacturer Part": "RC0603FR-0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98220"
+          }
+        ],
+        [
+          "CH224K",
+          1,
+          "ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP",
+          "U1",
+          {
+            "Manufacturer Part": "CH224K",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C970725"
+          }
+        ],
+        [
+          "DSHP03TSGER_C3293143",
+          1,
+          "SW-SMD_6P-L5.4-W5.4-P1.27-LS8.4",
+          "U2",
+          {
+            "Manufacturer Part": "DSHP03TSGER",
+            "Manufacturer": "康深",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3293143"
+          }
+        ],
+        [
+          "GT-USB-7100A",
+          1,
+          "USB-C-SMD_GT-USB-7100A",
+          "USB1",
+          {
+            "Manufacturer Part": "GT-USB-7100A",
+            "Manufacturer": "G-Switch(品赞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7469646"
+          }
+        ]
+      ],
+      "updateTime": 1794402213,
+      "createTime": 1793827630,
+      "histories": [],
+      "created_at": "2026-11-04 22:27:10",
+      "updated_at": "2026-11-11 14:03:33"
+    },
+    {
+      "uuid": "4bc9d328fb2f4fd583cf9bed453740e7",
+      "puuid": "d33e6db93bcacc16b53e63c404957949",
+      "title": "PCB_régulateur de tension",
+      "filename": "PCB_régulateur de tension.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "398691f1f785460098bbe5ee6590333c": 5,
+        "7f829e43bfec471f9ca5fb914ea2a895": 1,
+        "0a75538e1e3840dc932489c9a91361ae": 1,
+        "821d44a7d04943aebd248943a2b2cdea": 1,
+        "d2183077dbb14c42b392218cfacdc2a5": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "0603B105K500NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C90540"
+          }
+        ],
+        [
+          "PZ254V-11-02P",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "H1",
+          {
+            "Manufacturer Part": "PZ254V-11-02P",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C492401"
+          }
+        ],
+        [
+          "1kΩ",
+          4,
+          "R0603",
+          "R1,R3,R4,R6",
+          {
+            "Manufacturer Part": "RC0603FR-071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22548"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R5",
+          {
+            "Manufacturer Part": "RC0603FR-0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98220"
+          }
+        ],
+        [
+          "2.54-3P TPGT",
+          1,
+          "SW-SMD_6P-L7.6-W6.0-P2.54-LS9.3-BL",
+          "SW1",
+          {
+            "Manufacturer Part": "2.54-3P TPGT",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421520"
+          }
+        ],
+        [
+          "CH224K",
+          1,
+          "ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP",
+          "U1",
+          {
+            "Manufacturer Part": "CH224K",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C970725"
+          }
+        ],
+        [
+          "GT-USB-7100A",
+          1,
+          "USB-C-SMD_GT-USB-7100A",
+          "USB1",
+          {
+            "Manufacturer Part": "GT-USB-7100A",
+            "Manufacturer": "G-Switch(品赞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7469646"
+          }
+        ]
+      ],
+      "updateTime": 1794402683,
+      "createTime": 1794344257,
+      "histories": [],
+      "created_at": "2026-11-10 21:57:37",
+      "updated_at": "2026-11-11 14:11:23"
+    }
+  ],
+  "sort": [],
+  "title": "régulateur de tension",
+  "foldername": "régulateur de tension",
+  "schfilename": "multi prise.json",
+  "schfilemtime": 1794402213051
+}
