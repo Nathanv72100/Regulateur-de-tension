@@ -1,4 +1,4 @@
-<H1><strong>Hey</strong></H1>, alors ce projet c'est une board power delivery a tension variable , alimenter via USB (type C), la board est basé sur un __CH224K__.
+Hey, alors ce projet c'est une board power delivery a tension variable , alimenter via USB (type C), la board est basé sur un _CH224K_.
 elle sera capable de libérer du *  5V、9V、12V、15V et du 20V  *,
 pour modifier la tension électrique on utilise un deepswitch 3 position (DSHP03TSGER_C3293143) avec ce tableau:
 
