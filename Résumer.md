@@ -2,8 +2,7 @@
 elle sera capable de libérer du ``5V、9V、12V、15V et du 20V``,
 pour modifier la tension électrique on utilise un deepswitch 3 position (*`DSHP03TSGER_C3293143`*) avec ce tableau:
 
-
-
+<div></div>
 <img width="263" height="122" alt="image" src="https://github.com/user-attachments/assets/078fb013-3390-4be9-a800-b7c4dfbb9c9b" />
 
 
